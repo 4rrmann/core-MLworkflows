@@ -1,9 +1,6 @@
 pandas
 numpy
+matplotlib
 seaborn
+scikit-learn
 -e .
-
-'''
-'-e' is a command-line flag (short for --editable).
-'.' (a single dot) refers to the current working directory.
-'''
